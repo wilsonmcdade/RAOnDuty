@@ -1,0 +1,188 @@
+[
+    [
+        {
+            "id": "outside",
+            "name": "Outside",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer1": [
+                        "ConeLightRight"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3124",
+            "name": "Software Room",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer0": [
+                        "RightDoorSagittal"
+                    ],
+                    "layer1": [
+                        "ConeLightLeft"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3912",
+            "name": "Bepis",
+            "type": "Hallway",
+            "interactables": [
+                {
+                    "layer0": [
+                        "LeftDoorSagittal"
+                    ],
+                    "layer1": [
+                        "BepisMachine"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3962",
+            "name": "Northside Stairs",
+            "type": "Stairs",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal"
+                    ],
+                    "layer1": [
+                        "StairsUp",
+                        "StairsDown"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3110",
+            "name": "Room 3110",
+            "type": "DormRoom",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal",
+                        "WhiteboardFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3106",
+            "name": "Room 3106",
+            "type": "DormRoom",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal",
+                        "WhiteboardFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3098A",
+            "name": "User Center",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer0": [
+                        "LeftDoorFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3098B",
+            "name": "User Center",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer1": [
+                        "Devcade"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3094",
+            "name": "Room 3094",
+            "type": "DormRoom",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal",
+                        "WhiteboardFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3090",
+            "name": "Room 3090",
+            "type": "DormRoom",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal",
+                        "WhiteboardFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3086",
+            "name": "Room 3086",
+            "type": "DormRoom",
+            "interactables": [
+                {
+                    "layer0": [
+                        "CenterDoorFrontal",
+                        "WhiteboardFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3082",
+            "name": "Kitchen",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer0": [
+                        "LeftDoorFrontal"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3950",
+            "name": "Elevator Lobby",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer0": [
+                        "LeftElevatorDoor",
+                        "RightElevatorDoor"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3078",
+            "name": "Library",
+            "type": "Special",
+            "interactables": [
+                {
+                    "layer0": [
+                        "RightDoorFrontal"
+                    ]
+                }
+            ]
+        }
+    ]
+]
